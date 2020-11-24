@@ -1,4 +1,4 @@
-package examples
+package examples.chapter1to4
 
 const val myConst:Int = 10
 // const var myConst2:Int = 10

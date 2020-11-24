@@ -1,4 +1,4 @@
-package examples
+package examples.chapter1to4
 
 val topData1: Int = 10
 var topData2: Int = 20

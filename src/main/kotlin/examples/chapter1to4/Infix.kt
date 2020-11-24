@@ -1,4 +1,4 @@
-package examples
+package examples.chapter1to4
 
 infix fun Int.myFun(x:Int): Int {
     return x * x
